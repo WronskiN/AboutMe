@@ -1,6 +1,6 @@
 <h1>Hi there! I'm Norbert.</h1>
 
-Passioned Front End Web Developer. Ever since I can remember, I have always been interested in the computer and the Internet. Some time ago I decided to change my career and wrote my first line of HTML code - "Hello world". Then I discovered CSS, Javascript, and other web tools and technologies. I knew from the very beginning that I would like to do it in the future. I decided to study in my spare time between long working hours and daily activities. 
+Passionate Front End Web Developer. Ever since I can remember, I have always been interested in the computer and the Internet. Some time ago I decided to change my career and wrote my first line of HTML code - "Hello world". Then I discovered CSS, Javascript, and other web tools and technologies. I knew from the very beginning that I would like to do it in the future. I decided to study in my spare time between long working hours and daily activities. 
 
 Here I am now, after a few projects for myself and some commercial projects as a freelancer. I am ready to start a new career as a Front End Web Developer in your company. I'd love to have the chance to challenge my skills and grow with your experienced team. 
 
