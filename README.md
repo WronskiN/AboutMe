@@ -4,15 +4,14 @@ Passionate Front End Web Developer. Ever since I can remember, I have always bee
 
 Here I am now, after several web design courses and a few commercial projects as a freelancer. I am ready to start a new career as a Front End Web Developer in your company. I'd love to have the chance to challenge my skills and grow with your experienced team. 
 
-You can check out more project on my website: https://sotonweb.co.uk
 
 <h2>Tools I know</h2>
 
-HTML, CSS, Sass, JavaScript, ES6, React, Styled Components, Wordpress, WebPack, NPM, GIT, VSC, Photoshop, Illustrator, Figma.
+HTML, CSS, Sass, Tailwindcss, Bootstrap, JavaScript, ES6, React, Styled Components, Wordpress, WebPack, NPM, GIT, VSC, Photoshop, Illustrator, Figma.
 
 <h2>Currently learning</h2>
 
-React,
+Vue,
 
 <h3>Cooperation</h3>
 
