@@ -7,11 +7,11 @@ Here I am now, after several web design courses and a few commercial projects as
 
 <h2>Tools I know</h2>
 
-HTML, CSS, Sass, Tailwindcss, Bootstrap, JavaScript, ES6, jQuery, React, Styled Components, Wordpress, WebPack, NPM, GIT, VSC, Photoshop, Illustrator, Figma, WordPress.
+HTML, CSS, Sass, Tailwindcss, Bootstrap, JavaScript, ES6, jQuery, Vue, React, Styled Components, Wordpress, WebPack, NPM, GIT, VSC, Photoshop, Illustrator, Figma, WordPress.
 
 <h2>Currently learning</h2>
 
-Vue,
+...
 
 <h3>Cooperation</h3>
 
@@ -21,5 +21,4 @@ norbertwronski@yahoo.com
 
 <ul>
   <li>LinkedIn: https://www.linkedin.com/in/norbert-wronski-a5b255109/</li>
-  <li>Twitter: https://twitter.com/Norbert15247809</li>
 </ul>
