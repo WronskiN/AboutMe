@@ -7,7 +7,7 @@ Here I am now, after several web design courses and a few commercial projects as
 
 <h2>Tools I know</h2>
 
-HTML, CSS, Sass, Tailwindcss, Bootstrap, JavaScript, ES6, React, Styled Components, Wordpress, WebPack, NPM, GIT, VSC, Photoshop, Illustrator, Figma.
+HTML, CSS, Sass, Tailwindcss, Bootstrap, JavaScript, ES6, jQuery, React, Styled Components, Wordpress, WebPack, NPM, GIT, VSC, Photoshop, Illustrator, Figma, WordPress.
 
 <h2>Currently learning</h2>
 
