@@ -1,13 +1,13 @@
 <h1>Hi there! I'm Norbert.</h1>
 
-Passionate Front End Web Developer. Ever since I can remember, I have always been interested in the computer and the Internet. Some time ago I decided to change my career and wrote my first line of HTML code - "Hello world". Then I discovered CSS, Javascript, and other web tools and technologies. I knew from the very beginning that I would like to do it in the future. I decided to study in my spare time between long working hours and daily activities. 
+My journey into web development began with a simple "Hello world" in HTML — and quickly grew into a full-fledged passion for building user-focused digital experiences. With over four years of hands-on experience, I specialise in crafting responsive, modern front-ends using WordPress and Laravel Blade templating.
 
-Here I am now, after several web design courses and a few commercial projects as a freelancer. I am ready to start a new career as a Front End Web Developer in your company. I'd love to have the chance to challenge my skills and grow with your experienced team. 
+Originally self-taught through late nights and weekends, I’ve since completed multiple web development courses and worked on a variety of freelance and commercial projects. My current focus is on delivering pixel-perfect, fast, and accessible interfaces, while collaborating closely with back-end teams and clients.
 
 
-<h2>Tools I know</h2>
+<h2>Core Skills & Tools</h2>
 
-HTML, CSS, Sass, Tailwindcss, Bootstrap, JavaScript, ES6, jQuery, Vue, React, Styled Components, Wordpress, WebPack, NPM, GIT, VSC, Photoshop, Illustrator, Figma, WordPress.
+HTML, CSS, Sass, Tailwind CSS, Bootstrap, JavaScript (ES6+), jQuery, Vue, React, Styled Components, Blade (Laravel), WordPress, Webpack, NPM, Git, VS Code, Photoshop, Figma.
 
 <h2>Currently learning</h2>
 
@@ -15,7 +15,9 @@ HTML, CSS, Sass, Tailwindcss, Bootstrap, JavaScript, ES6, jQuery, Vue, React, St
 
 <h3>Cooperation</h3>
 
-norbertwronski@yahoo.com
+I’m always open to new opportunities where I can contribute, grow, and be challenged alongside a creative and passionate team.
+
+Email: norbertwronski@yahoo.com
 
 <h4>Social media</h4>
 
